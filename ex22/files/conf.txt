@@ -1,0 +1,3 @@
+/home/aviad/Desktop/tests_supporting_files/tests_ex22/tough_test/students
+/home/aviad/Desktop/tests_supporting_files/tests_ex22/tough_test/io/input.txt
+/home/aviad/Desktop/tests_supporting_files/tests_ex22/tough_test/io/correct_output.txt
